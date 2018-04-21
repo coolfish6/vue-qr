@@ -1097,7 +1097,7 @@ var AwesomeQRCode;
                 _oContext.restore();
             }
 
-            _bContext.drawImage(_tCanvas, 0, 0, size, size);
+            _bContext.drawImage(_tCanvas, margin, margin, size, size);
             _oContext.drawImage(_bkgCanvas, -margin, -margin, size, size);
 
             if (_htOption.binarize) {
