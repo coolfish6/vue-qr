@@ -1,9 +1,9 @@
 {
-  "name": "vue-qr",
+  "name": "vue-qr-fock",
   "version": "1.2.8",
   "license": "MIT",
   "description": "The Vue 2.x component of Awesome-qr.js",
-  "author": "Binaryify",
+  "author": "46134256@qq.com",
   "main": "src/main.js",
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -14,7 +14,7 @@
     "uuid": "^3.1.0",
     "vue": "^2.5.13"
   },
-  "keywords": ["vue-qr", "vue qr", "vue qrcode", "qr", "vue"],
+  "keywords": ["vue-qr-fock", "vue qr-fock", "vue qrcode", "qr-fock", "vue"],
   "devDependencies": {
     "autoprefixer": "^6.7.2",
     "babel-core": "^6.22.1",
